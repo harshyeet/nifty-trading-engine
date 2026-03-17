@@ -10,7 +10,7 @@ The "Dip & Bounce" strategy is built on a high-expectancy mathematical model. Cu
 
 ### Key Research Findings:
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/ea696edf-d6da-4cac-9be4-d3f988b87c7f" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/cd436cab-4158-4c5c-a589-8c094efdfef8" />
 
 Based on my preliminary backtest and paper trading data, the strategy captured significant intraday moves:
 * **Peak Performance:** Captured a **100%+ move** in a single session.
